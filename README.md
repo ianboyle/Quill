@@ -1,3 +1,3 @@
-Quill
+# Quill
 
-A Bullet Journal Web App
+### A Bullet Journal Web App
